@@ -5,11 +5,11 @@ public class Array_problem1 {
             sum += i;
         }
         int size = arr.length;
-        double avg = sum / size;
+        double avg = (double)sum / size;
         return avg;
     }
     static void main(){
-        int[] arr = {2,4,6,6};
+        int[] arr = {2,4,3,6};
         System.out.println(getAverage(arr));
 
     }
