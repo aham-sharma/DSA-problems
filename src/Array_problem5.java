@@ -1,3 +1,5 @@
+// finding sum of both negatives and positive numbers seperately
+
 public class Array_problem5 {
 
     static void sumofNegPos(int[] arr){

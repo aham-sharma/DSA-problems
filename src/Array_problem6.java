@@ -1,5 +1,5 @@
 public class Array_problem6 {
-
+// counting zeros and ones in an array of numbers.
     static int[] count_zero_ones(int[] arr){
 
         int zeroCount = 0;
