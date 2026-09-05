@@ -13,13 +13,13 @@ public class Array_problem5 {
                 negativesum += i;
             }
         }
-        System.out.printf("the sum of the positive numbers in the array are %d and the sum of the negative numbers in the array are %d", posivitesum,negativesum);
-
+        System.out.printf("positive sum : %d \n", posivitesum);
+        System.out.printf("negative sum : %d", negativesum);
     }
 
     static void main() {
 
-        int[] arr = {3,5,3,4,-2,-5,-9,9};
+        int[] arr = {2,-3,-5,-7,9};
         sumofNegPos(arr);
 
     }
