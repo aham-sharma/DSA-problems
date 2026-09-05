@@ -1,3 +1,5 @@
+// Searching for a element in an array
+
 public class Array_problem3 {
     static boolean linearSearch(int[] arr, int num){
         int size = arr.length;

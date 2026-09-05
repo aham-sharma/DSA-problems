@@ -1,3 +1,5 @@
+// finding average of the elements in array
+
 public class Array_problem1 {
     static double getAverage(int[] arr){
         int sum = 0;

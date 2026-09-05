@@ -1,3 +1,5 @@
+//multiply each element of an array by 10 then put all of them into a new array completely
+
 import org.w3c.dom.ls.LSOutput;
 import java.util.Arrays;
 
