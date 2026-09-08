@@ -1,3 +1,5 @@
+//finding the intersection of two array or arraylist
+
 import java.util.ArrayList;
 
 public class Array_problem9 {

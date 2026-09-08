@@ -1,3 +1,5 @@
+//swapping the alternate extremes of an array
+
 import java.util.Arrays;
 
 public class Array_problem10 {
