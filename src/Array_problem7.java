@@ -1,3 +1,5 @@
+// first unsorted number in an array
+
 public class Array_problem7 {
 
     static int firstUnsortedNum(int [] arr){

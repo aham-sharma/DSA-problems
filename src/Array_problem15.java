@@ -1,3 +1,5 @@
+//highest and lowest frequency of an array
+
 import java.util.Arrays;
 import java.util.HashMap;
 
