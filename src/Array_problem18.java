@@ -1,3 +1,5 @@
+//find two numbers in array that adds up to be the target
+
 import java.util.Arrays;
 
 public class Array_problem18 {
