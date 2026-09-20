@@ -3,8 +3,8 @@
 public class Array_problem1 {
     static double getAverage(int[] arr){
         int sum = 0;
-        for (int i : arr){
-            sum += i;
+        for (int value : arr){
+            sum += value;
         }
         int size = arr.length;
         double avg = (double)sum / size;
