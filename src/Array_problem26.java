@@ -1,3 +1,5 @@
+//find the pivotIndex in an array
+
 public class Array_problem26 {
 
     static int pivotIndex(int[] nums) {
