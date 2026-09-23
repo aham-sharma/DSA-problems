@@ -1,3 +1,5 @@
+//Remove duplicates from a sorted array
+
 import java.util.Arrays;
 
 public class Array_problem24 {
